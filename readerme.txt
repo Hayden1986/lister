@@ -1,3 +1,5 @@
 Git is a version sys.
 Git is free software.
 readerme is readme.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
